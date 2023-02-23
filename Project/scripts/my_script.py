@@ -6,7 +6,6 @@
 # hence when using it update the path with the updated filepath
 import sys
 sys.path.append('../')
-sys.path.append('/Users/asheshkaji/Documents/University Files/COGS18/ProjectTemplate-Ashesh-Kaji/')
 from my_module.functions import interface
 # Imports
 
